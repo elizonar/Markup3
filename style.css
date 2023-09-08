@@ -5,10 +5,22 @@ h4{
     color: hotpink;
     background-color: darkmagenta;
 }
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: aqua;
+    background-color: purple;
+}
 .line-space {
     margin-top: 0;
     margin-bottom: 0;
 }
 p{
-    color: hotpink;
+    color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+ul{
+    list-style-type:georgian;
+    color: magenta;
 }
