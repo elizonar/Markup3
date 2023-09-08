@@ -2,11 +2,13 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     font-size: 12pt;
+    color: hotpink;
+    background-color: darkmagenta;
 }
 .line-space {
     margin-top: 0;
     margin-bottom: 0;
 }
-body{ 
-    font-family: comic 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+p{
+    color: hotpink;
 }
