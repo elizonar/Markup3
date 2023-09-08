@@ -4,6 +4,7 @@ h4{
     font-size: 12pt;
     color: hotpink;
     background-color: darkmagenta;
+
 }
 h5{
     font-family: Arial, Helvetica, sans-serif;
@@ -19,8 +20,15 @@ p{
     color: pink;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
+
 }
 ul{
     list-style-type:georgian;
     color: magenta;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.line {
+    margin-top: 1;
+    margin-bottom: 1;
+
 }
